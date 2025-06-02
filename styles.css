@@ -1,0 +1,19 @@
+body{
+    display: flex;
+    flex-direction: column;
+}
+
+.header,
+.paragraph {
+    font-size: 48px;
+    color: #f0faf8;
+    background-color: #1f2937;
+    
+}
+
+
+
+.header{
+    font-weight: 900;
+
+}
