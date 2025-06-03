@@ -1,3 +1,2 @@
 # landing-page
-
-Set up your README.md file and write a brief introduction describing what the current project is and what skills you will have demonstrated once you have completed it. (You can also do this as a self-reflection at the end of the project, which is a good way to review what you have learned.)
+In this project, I set up a website using the html and css lessons I have completed from the Odin Project. These include writing a complete html file, styling using CSS (adding images, fonts, colors, and using flexbox). I edited my website to imitate a travel website where you can book vacations. 
